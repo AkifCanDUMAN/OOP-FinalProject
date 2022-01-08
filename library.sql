@@ -92,7 +92,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES (1,'ADMIN','ADMIN','Admin','123456'),(2,'HÜSEYİN','YAZICI','Hüseyin','qwe123'),(3,'EREN CAN','AKTAŞ','Eren','qwe123'),(4,'RESUL','ÜNSAL','Resul123','unsal123'),(5,'HAYATİ','BAHAR','Hayati123','qwe123'),(6,'YAĞMUR','YAZICI','Yagmur','qwe123'),(9,'AHMET','MEHMET','ahmet123','123456');
+INSERT INTO `users` VALUES (1,'ADMIN','ADMIN','Admin','123456');
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
