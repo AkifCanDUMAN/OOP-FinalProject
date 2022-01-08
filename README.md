@@ -33,6 +33,5 @@ https://youtu.be/q81Cw5hK04M
 
 ![Image](https://user-images.githubusercontent.com/73740265/148639797-75aade8c-3cad-487c-a13a-44b382655604.png)
 
-![Video](https://user-images.githubusercontent.com/73740265/148652445-caf77c68-1c2a-4288-b148-95d9b6a8a3bc.mp4)
+(https://user-images.githubusercontent.com/73740265/148652445-caf77c68-1c2a-4288-b148-95d9b6a8a3bc.mp4)
 
-![Video](https://github.com/AkifCanDUMAN/OOP-FinalProject/issues/1#issue-1096979952)
