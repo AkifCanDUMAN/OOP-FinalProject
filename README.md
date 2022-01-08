@@ -33,5 +33,4 @@ https://youtu.be/q81Cw5hK04M
 
 ![Image](https://user-images.githubusercontent.com/73740265/148639797-75aade8c-3cad-487c-a13a-44b382655604.png)
 
-![Berkay Feddback](https://img.youtube.com/vi/https://www.youtube.com/watch?v=yIKvWY9dT3w/maxresdefault.jpg)
-
+[![Berkay Feedback](https://img.youtube.com/vi/https://www.youtube.com/watch?v=yIKvWY9dT3w/maxresdefault.jpg)](https://youtu.be/https://www.youtube.com/watch?v=yIKvWY9dT3w)
