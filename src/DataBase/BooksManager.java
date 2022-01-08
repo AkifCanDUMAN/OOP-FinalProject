@@ -19,7 +19,7 @@ public class BooksManager
             list.add(new Books(
                     rs.getString("BOOK_NAME"),
                     rs.getString("AUTHOR_NAME"),
-                    rs.getString("NUMBER OF PAGE"),
+                    rs.getString("NUMBEROFPAGE"),
                     rs.getString("TYPE")));
         }
         return list;

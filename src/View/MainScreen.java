@@ -197,6 +197,7 @@ public class MainScreen implements Initializable
         }catch (SQLException exception)
         {
             System.out.println("Error");
+            exception.printStackTrace();
         }
 
         FilteredList<Books> filteredList = new FilteredList<>(listBooks, e->true);
@@ -214,10 +215,7 @@ public class MainScreen implements Initializable
                     }else if(Books.getNumberOfPage().contains(lowerCaseFilter)){
                         return true;
                     }
-                    else if(Books.getType().contains(lowerCaseFilter)){
-                        return true;
-                    }
-                    return false;
+                    else return Books.getType().contains(lowerCaseFilter);
                 });
             } );
             SortedList<Books> sortedList = new SortedList<>(filteredList);

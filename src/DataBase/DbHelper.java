@@ -9,7 +9,8 @@ public class DbHelper
     public Connection getConnection() throws SQLException
     {
         final String userName = "root";
-        final String password = "991254";
+        final String password = "123";
+//        final String dbUrl = "jdbc:mysql://localhost:3306/admins";
         final String dbUrl = "jdbc:mysql://localhost:3306/library?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
         return DriverManager.getConnection(dbUrl,userName,password);
     }
@@ -18,5 +19,6 @@ public class DbHelper
     {
         System.out.println("Error : "+exception.getMessage());
         System.out.println("Error code : "+exception.getErrorCode());
+        System.out.println(exception);
     }
 }

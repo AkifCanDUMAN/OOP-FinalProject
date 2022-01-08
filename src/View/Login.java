@@ -16,6 +16,7 @@ import javafx.stage.StageStyle;
 
 import javax.swing.*;
 import java.io.IOException;
+import java.util.Objects;
 
 public class Login
 {
@@ -82,7 +83,7 @@ public class Login
             try{
                 nowUserName = textLogUserName.getText();
                 nowNameAndSurname = usersManager.nameSurname(nowUserName);
-                Parent root = FXMLLoader.load(getClass().getResource("MainScreen.fxml"));
+                Parent root = FXMLLoader.load(Objects.requireNonNull(getClass().getResource("MainScreen.fxml")));
                 Stage stage = new Stage();
                 Scene scene = new Scene(root);
                 stage.initStyle(StageStyle.UNDECORATED);
@@ -91,6 +92,8 @@ public class Login
             }catch (IOException exception) {
                 System.out.println("Error000");
                 System.out.println("Error : "+exception.getMessage());
+                System.out.println(exception);
+                exception.printStackTrace();
             }
             Stage stage = (Stage)btnLogin.getScene().getWindow();
             stage.close();
