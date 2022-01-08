@@ -36,3 +36,4 @@ https://youtu.be/q81Cw5hK04M
 ## Feedbacks;
 [![Berkay Feedback](https://img.youtube.com/vi/https://www.youtube.com/watch?v=yIKvWY9dT3w/maxresdefault.jpg)](https://youtu.be/https://www.youtube.com/watch?v=yIKvWY9dT3w)
 
+[![Aibek Feedback](https://img.youtube.com/vi/https://www.youtube.com/watch?v=dEbfSZIOK9g/maxresdefault.jpg)](https://youtu.be/https://www.youtube.com/watch?v=dEbfSZIOK9g)
