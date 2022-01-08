@@ -32,3 +32,6 @@ https://youtu.be/q81Cw5hK04M
 ## Library Information
 
 ![Image](https://user-images.githubusercontent.com/73740265/148639797-75aade8c-3cad-487c-a13a-44b382655604.png)
+
+[![Watch the video](https://img.youtube.com/vi/https://github.com/AkifCanDUMAN/OOP-FinalProject/issues/1#issue-1096979952/maxresdefault.jpg
+)](https://youtu.be/https://github.com/AkifCanDUMAN/OOP-FinalProject/issues/1#issue-1096979952)
