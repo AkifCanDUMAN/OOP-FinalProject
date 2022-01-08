@@ -1,11 +1,11 @@
 # OOP-FinalProject
 Final Project - OOP
 
-Members
+# Members
 
-# Akif Can DUMAN - COM20/B
+## Akif Can DUMAN - COM20/B
 
-# Furkan AY - COM20/B
+## Furkan AY - COM20/B
 
 ## Youtube Link:
 
